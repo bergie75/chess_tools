@@ -5,4 +5,4 @@ Piece image citation: By Cburnett - Own work, CC BY-SA 3.0,
 https://commons.wikimedia.org/w/index.php?curid=1499808
 
 Code to draw board and pieces from Medium article "How to Build a Chess Game
-with Pygame in Python" by Arslan Mirza.
+with Pygame in Python" by Arslan Mirza, https://medium.com/javarevisited/how-to-build-a-chess-game-with-pygame-in-python-9eb0a7591776
